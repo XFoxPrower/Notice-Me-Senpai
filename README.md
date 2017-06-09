@@ -2,7 +2,7 @@
 *Notice Me, Senpai!* is a BetterDiscord plugin that creates a 'Meow' sound when you receive a Direct Message.
 
 ## Features
-* Creates a 'Meow' sound on your first* unread* message with someone.
+* Creates a 'Meow' sound on your first *unread* message with someone.
 * Even works if Notifications are disabled (May be configurable in the future).
 
 ## Installation
